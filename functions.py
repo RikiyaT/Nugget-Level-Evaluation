@@ -3,9 +3,9 @@ from transformers import RobertaTokenizer, RobertaForSequenceClassification
 import pandas as pd
 import numpy as np
 
-def load_model_and_tokenizer():
+def load_model_and_tokenizer(): # change this according to the turn-level scoring framework that you use
     tokenizer = RobertaTokenizer.from_pretrained("roberta-large")
-    model = RobertaForSequenceClassification.from_pretrained('best_model')
+    model = RobertaForSequenceClassification.from_pretrained('best_model')  
     return tokenizer, model
 
 def add_turn_level_scores(df, tokenizer, model):
