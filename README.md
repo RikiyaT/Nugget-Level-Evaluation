@@ -38,7 +38,7 @@ The results we achieved in the case study is as folllows:
 
 
 ### References
-Guangxuan Xu, Ruibo Liu, Fabrice Harel-Canada, Nischal Reddy Chandra, and
+1. Guangxuan Xu, Ruibo Liu, Fabrice Harel-Canada, Nischal Reddy Chandra, and
 Nanyun Peng. 2022. EnDex: Evaluation of Dialogue Engagingness at Scale. In
 Findings of the Association for Computational Linguistics: EMNLP 2022. Association
 for Computational Linguistics, Abu Dhabi, United Arab Emirates, 4884–4893. https://aclanthology.org/2022.findings-emnlp.359
