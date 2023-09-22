@@ -30,3 +30,8 @@ our version:
 torch.__version__ == 2.0.1
 transformers.__version__==4.33.2
 ```
+
+## Test Results
+The results we achieved in the case study is as folllows:
+
+![test results](testresults.png)
