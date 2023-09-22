@@ -2,9 +2,9 @@ from functions import load_csv, nug_eval
 
 # Configurations
 CSV_PATH = "testdata.csv"
-W_1 = 10
-W_2 = 5
-W_3 = 3
+w_ø = 10
+w_diff = 5
+w_same = 3
 K = 5
 L = 3
 
