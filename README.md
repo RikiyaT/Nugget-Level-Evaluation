@@ -16,8 +16,9 @@ https://drive.google.com/file/d/1ph4P471n0LoM1vbsarj3wvEkpijhwCms/view?usp=shari
 ---
 We tested to calculate the nugget-level engagingness scores of each nugget in the following system turn:
 
-"You are interested in SIGIR AP? According to the homepage, you should write a paper of 2-9 pages. I recommend that you review the Call for Papers to check the relevant topics. Good luck!
-"
+```
+You are interested in SIGIR AP? According to the homepage, you should write a paper of 2-9 pages. I recommend that you review the Call for Papers to check the relevant topics. Good luck!
+```
 
 ## Usage
 The dataset file, and all the parameters (w_ø, w_diff, w_same, K, L) can be adjusted in config.py.
