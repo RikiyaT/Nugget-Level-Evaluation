@@ -36,6 +36,7 @@ The results we achieved in the case study is as folllows:
 
 ![test results](testresults.png)
 
+For more information please refer to our paper.
 
 ### References
 1. Guangxuan Xu, Ruibo Liu, Fabrice Harel-Canada, Nischal Reddy Chandra, and
