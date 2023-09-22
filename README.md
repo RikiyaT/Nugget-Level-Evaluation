@@ -1,6 +1,6 @@
 # Nugget-Level-Evaluation
 
-The repository for the ACM SIGIR-AP 2023 Paper, *Open Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores*
+Repository for the ACM SIGIR-AP 2023 Paper, *Open Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores*
 
 A link to paper available from here: [link]
 
