@@ -1,8 +1,6 @@
 # Nugget-Level-Evaluation
 
-Repository for the ACM SIGIR-AP 2023 Paper, *Open Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores*
-
-A link to paper available from here: [pdf](https://arxiv.org/abs/2310.00410)
+Repository for the ACM SIGIR-AP 2023 Paper, [Open Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores](https://arxiv.org/abs/2310.00410)
 
 ## Explanation
 
@@ -37,6 +35,21 @@ The results we achieved in the case study is as folllows:
 ![test results](testresults.png)
 
 For more information please refer to our paper.
+
+## Bibtex
+If you find this code useful in your research, please cite:
+```
+@article{Takehi2023,
+Author = {Rikiya Takehi and Akihisa Watanabe and Tetsuya Sakai},
+Title = {Open-Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores},
+Year = {2023},
+Eprint = {arXiv:2310.00410},
+Howpublished = {In Annual International ACM SIGIR Conference on Research and
+  Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP
+  `23), November 26-28, 2023, Beijing, China. ACM, New York, NY, USA, 6 pages},
+Doi = {10.1145/3624918.3625338},
+}
+```
 
 ### References
 1. Guangxuan Xu, Ruibo Liu, Fabrice Harel-Canada, Nischal Reddy Chandra, and
