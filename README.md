@@ -37,7 +37,7 @@ The results we achieved in the case study is as folllows:
 For more information please refer to our paper.
 
 ## Bibtex
-If you find this code useful in your research, please cite:
+If you find our study useful in your research, please cite:
 ```
 @article{Takehi2023,
 Author = {Rikiya Takehi and Akihisa Watanabe and Tetsuya Sakai},
