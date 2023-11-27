@@ -39,15 +39,22 @@ For more information please refer to our paper.
 ## Bibtex
 If you find our study useful in your research, please cite:
 ```
-@article{Takehi2023,
-Author = {Rikiya Takehi and Akihisa Watanabe and Tetsuya Sakai},
-Title = {Open-Domain Dialogue Quality Evaluation: Deriving Nugget-level Scores from Turn-level Scores},
-Year = {2023},
-Eprint = {arXiv:2310.00410},
-Howpublished = {In Annual International ACM SIGIR Conference on Research and
-  Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP
-  `23), November 26-28, 2023, Beijing, China. ACM, New York, NY, USA, 6 pages},
-Doi = {10.1145/3624918.3625338},
+@inproceedings{10.1145/3624918.3625338,
+author = {Takehi, Rikiya and Watanabe, Akihisa and Sakai, Tetsuya},
+title = {Open-Domain Dialogue Quality Evaluation: Deriving Nugget-Level Scores from Turn-Level Scores},
+year = {2023},
+isbn = {9798400704086},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3624918.3625338},
+doi = {10.1145/3624918.3625338},
+abstract = {Existing dialogue quality evaluation systems can return a score for a given system turn from a particular viewpoint, e.g., engagingness. However, to improve dialogue systems by locating exactly where in a system turn potential problems lie, a more fine-grained evaluation may be necessary. We therefore propose an evaluation approach where a turn is decomposed into nuggets (i.e., expressions associated with a dialogue act), and nugget-level evaluation is enabled by leveraging an existing turn-level evaluation system. We demonstrate the potential effectiveness of our evaluation method through a case study.},
+booktitle = {Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region},
+pages = {40–45},
+numpages = {6},
+keywords = {dialogue act, dialogue systems, evaluation},
+location = {<conf-loc>, <city>Beijing</city>, <country>China</country>, </conf-loc>},
+series = {SIGIR-AP '23}
 }
 ```
 
